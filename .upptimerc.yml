@@ -4,7 +4,7 @@ repo: status-page # The name of this repository
 
 sites:
   - name: RoyalMTLS
-    url: https://www.royalmtls.com
+    url: $RAW_URL
     icon: https://www.royalmtls.com/icon.png
 
 status-website:
