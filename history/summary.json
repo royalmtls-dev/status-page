@@ -4,17 +4,19 @@
     "url": "$RAW_URL",
     "icon": "https://www.royalmtls.com/icon.png",
     "slug": "royal-mtls",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 292,
-    "timeWeek": 409,
-    "timeMonth": 360,
-    "timeYear": 360,
-    "dailyMinutesDown": {}
+    "time": 893,
+    "timeDay": 7776,
+    "timeWeek": 2266,
+    "timeMonth": 893,
+    "timeYear": 893,
+    "dailyMinutesDown": {
+      "2024-09-30": 0
+    }
   }
 ]
