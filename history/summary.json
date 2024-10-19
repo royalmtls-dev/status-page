@@ -5,16 +5,16 @@
     "icon": "https://www.royalmtls.com/icon.png",
     "slug": "royal-mtls",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
-    "time": 659,
-    "timeDay": 399,
-    "timeWeek": 314,
-    "timeMonth": 798,
-    "timeYear": 659,
+    "uptimeYear": "99.97%",
+    "time": 649,
+    "timeDay": 182,
+    "timeWeek": 295,
+    "timeMonth": 795,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2024-09-30": 21
     }
