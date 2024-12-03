@@ -6,6 +6,8 @@ sites:
   - name: RoyalMTLS
     url: $RAW_URL
     icon: https://www.royalmtls.com/icon.png
+  - name: Assets/CDN
+    url: https://cdn.royalmtls.com/images/logo.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
