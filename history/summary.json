@@ -6,15 +6,15 @@
     "slug": "royal-mtls",
     "status": "up",
     "uptime": "94.46%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "2.46%",
     "uptimeWeek": "57.62%",
     "uptimeMonth": "84.31%",
     "uptimeYear": "94.46%",
-    "time": 740,
-    "timeDay": 1527,
-    "timeWeek": 637,
-    "timeMonth": 456,
-    "timeYear": 740,
+    "time": 745,
+    "timeDay": 1365,
+    "timeWeek": 731,
+    "timeMonth": 480,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2024-12-03": 1350,
       "2024-12-02": 1440,
@@ -25,5 +25,23 @@
       "2024-10-22": 77,
       "2024-09-30": 21
     }
+  },
+  {
+    "name": "Assets/CDN",
+    "url": "https://cdn.royalmtls.com/images/logo.png",
+    "icon": "https://icons.duckduckgo.com/ip3/cdn.royalmtls.com.ico",
+    "slug": "assets-cdn",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 678,
+    "timeDay": 678,
+    "timeWeek": 678,
+    "timeMonth": 678,
+    "timeYear": 678,
+    "dailyMinutesDown": {}
   }
 ]
